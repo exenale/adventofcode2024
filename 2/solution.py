@@ -1,6 +1,4 @@
 # day 1 
-import collections
-
 filename = "input.txt"
 
 
